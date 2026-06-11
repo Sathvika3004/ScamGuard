@@ -13,9 +13,10 @@ ScamGuard is a terminal-style web application that detects scam messages in real
 - HTML
 - CSS
 - JavaScript
-- Node.js (logic)
 
 ## Future Scope
 - AI-based detection using Google Vertex AI
 - Firebase integration
 - Browser extension and mobile app
+## Developer
+S.Sathvika
